@@ -61,6 +61,8 @@ Integration with AWS Services: Seamlessly integrates with other AWS services lik
 <img width="768" alt="php4 ec2 " src="https://github.com/user-attachments/assets/c89af038-3d8f-4f6d-a21b-63bda95e0c7c">
 
 
+**application endpoint view:**
+
 <img width="479" alt="php-2" src="https://github.com/user-attachments/assets/761e5ce4-3185-4f90-94f2-bede94b428a2">
 
 
